@@ -99,3 +99,6 @@ npm run dev
 4. Copia la key y pégala en `backend/.env`
 
 El plan gratuito incluye ~100,000 tokens/día, más que suficiente para uso personal.
+
+
+Última actualización para despliegue en Vercel.
